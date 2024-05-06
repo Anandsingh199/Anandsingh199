@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning data visulization
 - 💞️ I’m looking to collaborate on power bi project
-- 📫 How to reach me anandashok1997@gmail.com
+- 📫 To reach me anandashok1997@gmail.com
   
 
 <!---
